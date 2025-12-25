@@ -5,10 +5,10 @@ Aplicação fullstack que implementa um Kanban Board utilizando ReactJS (Vite) n
 As tarefas são persistidas em um arquivo JSON, utilizado como banco de dados.
 
 # Funcionalidades:
-  - Visualizar tarefas em um Kanban Board com To do, WIP e done.
+  - Visualizar título, descrição, e prazo das taks.
   - Criar novas tarefas
-  - Mover tarefas entre colunas
-  - 
+  - Mover tarefas entre colunas (Todo, WIP e Done)
+    
 # Tecnologias usadas
   - ReactJS
   - Vite
