@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    
+    background-color: var(--p-white);
+
+    .logoContainer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        img{
+            height: 28px;
+        }
+
+        p{
+            font-family: 'Momo Trust Display';
+            font-size: 24px;
+            color: var(--p-black);
+            margin: 16px 0;
+        }
+    }
+}
