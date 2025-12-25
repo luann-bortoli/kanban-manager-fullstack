@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "status": "todo",
+        "title": "Levantamento de requisitos",
+        "desc": "Mapear funcionalidades principais do sistema.",
+        "deadline": "2025-12-10"
+    },
+    {
+        "id": 2,
+        "status": "todo",
+        "title": "Interface de login",
+        "desc": "Criar tela de login com email e senha.",
+        "deadline": "2025-12-12"
+    },
+    {
+        "id": 3,
+        "status": "wip",
+        "title": "Valida\u00e7\u00e3o de campos",
+        "desc": "Implementar valida\u00e7\u00e3o b\u00e1sica de campos obrigat\u00f3rios.",
+        "deadline": "2025-12-08"
+    },
+    {
+        "id": 4,
+        "status": "wip",
+        "title": "Cadastro de usu\u00e1rios",
+        "desc": "Criar tela de cadastro integrada ao backend.",
+        "deadline": "2025-12-15"
+    },
+    {
+        "id": 5,
+        "status": "done",
+        "title": "Integra\u00e7\u00e3o com API",
+        "desc": "Consumir API REST no frontend.",
+        "deadline": "2025-12-18"
+    },
+    {
+        "id": 6,
+        "status": "done",
+        "title": "Configura\u00e7\u00e3o do backend",
+        "desc": "Configurar Flask e rotas b\u00e1sicas.",
+        "deadline": "2025-12-05"
+    },
+    {
+        "id": 7,
+        "status": "done",
+        "title": "Estiliza\u00e7\u00e3o do Kanban",
+        "desc": "Aplicar estilos finais no quadro.",
+        "deadline": "2025-12-20"
+    },
+    {
+        "id": 8,
+        "status": "done",
+        "title": "Movimenta\u00e7\u00e3o de tarefas",
+        "desc": "Permitir mover tarefas entre colunas.",
+        "deadline": "2025-12-14"
+    },
+    {
+        "id": 9,
+        "status": "todo",
+        "title": "Persist\u00eancia de dados",
+        "desc": "Garantir persist\u00eancia das altera\u00e7\u00f5es.",
+        "deadline": "2025-12-07"
+    },
+    {
+        "id": 10,
+        "status": "done",
+        "title": "Testes manuais",
+        "desc": "Realizar testes no fluxo da aplica\u00e7\u00e3o.",
+        "deadline": "2025-12-22"
+    },
+    {
+        "id": 11,
+        "status": "todo",
+        "title": "Refatora\u00e7\u00e3o de componentes",
+        "desc": "Refatorar componentes React para melhorar legibilidade, reutiliza\u00e7\u00e3o de c\u00f3digo, separa\u00e7\u00e3o de responsabilidades e ader\u00eancia \u00e0s boas pr\u00e1ticas, garantindo manuten\u00e7\u00e3o mais simples no futuro.",
+        "deadline": "2025-12-19"
+    },
+    {
+        "id": 12,
+        "status": "wip",
+        "title": "Documenta\u00e7\u00e3o do projeto",
+        "desc": "Criar documenta\u00e7\u00e3o t\u00e9cnica detalhada do projeto, descrevendo arquitetura, fluxo de dados, decis\u00f5es t\u00e9cnicas, instru\u00e7\u00f5es de instala\u00e7\u00e3o e execu\u00e7\u00e3o, al\u00e9m de orienta\u00e7\u00f5es para futuras manuten\u00e7\u00f5es e evolu\u00e7\u00e3o do sistema.",
+        "deadline": "2025-12-21"
+    }
+]
