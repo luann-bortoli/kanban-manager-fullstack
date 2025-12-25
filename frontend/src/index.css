@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Display&family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --p-white: #EAF6FF;
+    --p-off-white: #D6EDFF;
+    --p-black: #232528;
+    --todo: #F93943;
+    --wip: #50B2C0;
+    --done: #3772FF;
+}
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: var(--p-black);
+}
